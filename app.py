@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 import re
 
-# Display on webpage
+# Display on webpage 
 st.title('Movie review classification')
 st.markdown("This project uses the IMDB movie review dataset")
 st.markdown("Using sentiment analysis, reviews will be classified under a specific category")
